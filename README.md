@@ -6,4 +6,5 @@ A hardware binary counter that counts from 0 to 15 using 4 LEDs, each representi
 ## Demo
 
 ![Project Demo](4-Bit_Binary_Counter-ezgif.com-crop.gif)
+
 ---
